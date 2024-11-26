@@ -1,5 +1,8 @@
 ## yomi4486です
-自転車とか一眼レフ(Nikon)が好きです
+### 趣味
+- 自転車
+- 一眼レフ(Nikon)
+- パズドラ
 <br>Website: https://xenfo.org
 <br>Age: 17
 <table>
