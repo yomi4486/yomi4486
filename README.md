@@ -2,7 +2,7 @@
 ### 趣味
 - 自転車
 - 一眼レフ(Nikon)
-- パズドラ
+- パズドラ<br>
 <br>Website: https://xenfo.org
 <br>Age: 17
 <table>
