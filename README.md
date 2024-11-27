@@ -2,7 +2,7 @@
 ### 趣味
 - 自転車
 - 一眼レフ(Nikon)
-- パズチャレ
+- セキュリティとか設計とか、Flutterも好き
 
 <br>Website: https://xenfo.org
 <br>Age: 17
