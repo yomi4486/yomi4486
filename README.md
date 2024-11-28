@@ -1,4 +1,4 @@
-<body>
+<div style="background: linear-gradient(to bottom right, #4433ff8f, #44f955); background-size: cover;opacity:1;color:#eeeeee">
 
 ## yomi4486です
 ### 趣味
@@ -48,10 +48,11 @@
     </td>
   </tr>
 </table>
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yomi4486&count_private=true&show_icons=true&theme=ambient_gradient" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yomi4486&layout=compact&theme=ambient_gradient" />
 </a>
-</body>
+</div>
