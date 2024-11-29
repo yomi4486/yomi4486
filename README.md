@@ -2,15 +2,15 @@
 
 ## yomi4486です
 ### 趣味
-- 自転車
-- 一眼レフ(Nikon)
+- ロードバイク🚴‍♀️
+- 一眼レフ(Nikon)📸
 - セキュリティとか設計とか、Flutterも好き
 
 <br>Website: https://xenfo.org
 <br>Age: 17
 <table>
   <tr>
-    <td>技術</td>
+    <td>技術🔧</td>
   </tr>
   <tr>
     <td>
