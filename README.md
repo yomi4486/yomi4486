@@ -5,6 +5,7 @@
 - ロードバイク🚴‍♀️
 - 一眼レフ(Nikon)📸
 - セキュリティとか設計とか、Flutterも好き
+- パズチャレ
 
 <br>Website: https://xenfo.org
 <br>Age: 17
