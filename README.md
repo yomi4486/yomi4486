@@ -40,12 +40,15 @@
         <img src="https://img.shields.io/badge/Keras-555.svg?logo=keras&style=flat">
         <img src="https://img.shields.io/badge/PyTorch-555.svg?logo=pytorch&style=flat">
         <img src="https://img.shields.io/badge/assembly-555.svg?logo=assembly&style=flat">
-        <img src="https://img.shields.io/badge/Discord.py/Pycord-555.svg?logo=discord&style=flat">
+        <img src="https://img.shields.io/badge/Discord.py/Pycord-7289DA.svg?logo=discord&style=flat">
         <img src="https://img.shields.io/badge/Flutter-555.svg?logo=flutter&style=flat">
         <img src="https://img.shields.io/badge/Dart-555.svg?logo=dart&style=flat">
         <img src="https://img.shields.io/badge/Firebase-555.svg?logo=firebase&style=flat">
         <img src="https://img.shields.io/badge/GoogleCloudPlatform-555.svg?logo=googlecloud&style=flat">
         <img src="https://img.shields.io/badge/QEMU-555.svg?logo=qemu&style=flat">
+        <img src="https://img.shields.io/badge/React-555.svg?logo=react&style=flat">
+        <img src="https://img.shields.io/badge/ReactNative-555.svg?logo=react&style=flat">
+        <img src="https://img.shields.io/badge/Vite-555.svg?logo=vite&style=flat">
     </td>
   </tr>
 </table>
