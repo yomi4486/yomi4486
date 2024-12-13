@@ -45,10 +45,16 @@
         <img src="https://img.shields.io/badge/Dart-555.svg?logo=dart&style=flat">
         <img src="https://img.shields.io/badge/Firebase-555.svg?logo=firebase&style=flat">
         <img src="https://img.shields.io/badge/GoogleCloudPlatform-555.svg?logo=googlecloud&style=flat">
+        <img src="https://img.shields.io/badge/AWS-555.svg?logo=aws&style=flat">
         <img src="https://img.shields.io/badge/QEMU-555.svg?logo=qemu&style=flat">
         <img src="https://img.shields.io/badge/React-555.svg?logo=react&style=flat">
         <img src="https://img.shields.io/badge/ReactNative-555.svg?logo=react&style=flat">
         <img src="https://img.shields.io/badge/Vite-555.svg?logo=vite&style=flat">
+        <img src="https://img.shields.io/badge/Figma-555.svg?logo=figma&style=flat">
+        <br>
+        <img src="https://img.shields.io/badge/Figma-555.svg?logo=figma&style=flat">
+        <img src="https://img.shields.io/badge/Markdown-555.svg?logo=markdown&style=flat">
+        <img src="https://img.shields.io/badge/Makefile-555.svg?logo=make&style=flat">
     </td>
   </tr>
 </table>
