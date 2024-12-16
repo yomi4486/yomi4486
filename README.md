@@ -58,15 +58,12 @@
   </tr>
 </table>
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yomi4486&count_private=true&show_icons=true&theme=ambient_gradient" style="height: 180px;" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yomi4486&layout=compact&theme=ambient_gradient" style="height: 180px;" />
-</a>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=yomi4486&count_private=true&show_icons=true&theme=ambient_gradient" style="height: 180px;" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yomi4486&layout=compact&theme=ambient_gradient" style="height: 180px;" />
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yomi4486&theme=dracula" />
-</a>
+
+<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yomi4486&theme=dracula" />
+
 
 </div>
