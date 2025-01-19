@@ -1,5 +1,3 @@
-<div style="background: linear-gradient(to bottom right, #4433ff8f, #44f955); background-size: cover;opacity:1;color:#eeeeee">
-
 ## yomi4486です🌱
 ### 趣味
 - ロードバイク🚴‍♀️
@@ -66,6 +64,3 @@ Website: [xenfo.org](https://xenfo.org)
 <br>
 
 <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yomi4486&theme=dracula" />
-
-
-</div>
