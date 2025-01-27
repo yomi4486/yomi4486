@@ -9,6 +9,9 @@
 
 Website: [xenfo.org](https://xenfo.org)
 <br>Age: 17
+<br><a href="https://github.com/yomi4486">
+    <img src="https://komarev.com/ghpvc/?username=yomi4486" alt="yomi4486" />
+</a>
 <table>
   <tr>
     <td>技術🔧</td>
