@@ -4,14 +4,14 @@
 - 一眼レフ(Nikon)📸
 - セキュリティとか設計とか、Flutterも好き
 - お前のブリタニアを認めない事
-
+<br><a href="https://github.com/yomi4486">
+    <img src="https://komarev.com/ghpvc/?username=yomi4486" alt="yomi4486" />
+</a>
 <br>
 
 Website: [xenfo.org](https://xenfo.org)
 <br>Age: 17
-<br><a href="https://github.com/yomi4486">
-    <img src="https://komarev.com/ghpvc/?username=yomi4486" alt="yomi4486" />
-</a>
+
 <table>
   <tr>
     <td>技術🔧</td>
@@ -61,9 +61,10 @@ Website: [xenfo.org](https://xenfo.org)
   </tr>
 </table>
 <br>
-
+<div style="width:100%;">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yomi4486&count_private=true&show_icons=true&theme=ambient_gradient" style="height: 180px;" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yomi4486&layout=compact&theme=ambient_gradient&langs_count=10" style="height: 180px;" />
+</div>
 <br>
 
 <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yomi4486&theme=dracula" />
