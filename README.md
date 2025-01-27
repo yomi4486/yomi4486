@@ -4,6 +4,7 @@
 - 一眼レフ(Nikon)📸
 - セキュリティとか設計とか、Flutterも好き
 - お前のブリタニアを認めない事
+
 <br><a href="https://github.com/yomi4486">
     <img src="https://komarev.com/ghpvc/?username=yomi4486" alt="yomi4486" />
 </a>
