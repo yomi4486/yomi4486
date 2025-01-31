@@ -54,6 +54,7 @@ Website: [xenfo.org](https://xenfo.org)
         <img src="https://img.shields.io/badge/React-555.svg?logo=react&style=flat">
         <img src="https://img.shields.io/badge/ReactNative-555.svg?logo=react&style=flat">
         <img src="https://img.shields.io/badge/Vite-555.svg?logo=vite&style=flat">
+        <img src="https://img.shields.io/badge/ArgoCD-555.svg?logo=argocd&style=flat">
         <br>
         <img src="https://img.shields.io/badge/Figma-555.svg?logo=figma&style=flat">
         <img src="https://img.shields.io/badge/Markdown-555.svg?logo=markdown&style=flat">
