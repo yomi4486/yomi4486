@@ -50,7 +50,7 @@ Website: [xenfo.org](https://xenfo.org)
         <img src="https://img.shields.io/badge/Dart-555.svg?logo=dart&style=flat">
         <img src="https://img.shields.io/badge/Firebase-555.svg?logo=firebase&style=flat">
         <img src="https://img.shields.io/badge/GoogleCloudPlatform-555.svg?logo=googlecloud&style=flat">
-        <img src="https://img.shields.io/badge/AWS-555.svg?logo=aws&style=flat">
+        <img src="https://img.shields.io/badge/AWS-555.svg?logo=amazon&style=flat">
         <img src="https://img.shields.io/badge/QEMU-555.svg?logo=qemu&style=flat">
         <img src="https://img.shields.io/badge/React-555.svg?logo=react&style=flat">
         <img src="https://img.shields.io/badge/ReactNative-69D3F9.svg?logo=react&style=flat">
