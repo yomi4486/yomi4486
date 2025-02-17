@@ -25,20 +25,21 @@ Website: [xenfo.org](https://xenfo.org)
         <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
         <br>
         <img src="https://img.shields.io/badge/-JavaScript-276DC3.svg?logo=javascript&style=flat">
-        <img src="https://img.shields.io/badge/-Node.js-555.svg?logo=nodedotjs&style=flat">
-        <img src="https://img.shields.io/badge/-TypeScript-555.svg?logo=typescript&style=flat">
+        <img src="https://img.shields.io/badge/-Node.js-7DB323.svg?logo=nodedotjs&style=flat">
+        <img src="https://img.shields.io/badge/-TypeScript-326CBD.svg?logo=typescript&style=flat">
         <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
         <img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=flat">
         <br>
-        <img src="https://img.shields.io/badge/-Go-555.svg?logo=go&style=flat">
-        <img src="https://img.shields.io/badge/-Java-F80000.svg?logo=&style=flat">
+        <img src="https://img.shields.io/badge/-Go-4ED2E0.svg?logo=go&style=flat">
+        <img src="https://img.shields.io/badge/-Java-F80000.svg?logo=java&style=flat">
         <img src="https://img.shields.io/badge/-C-00599C.svg?logo=c&style=flat">
         <img src="https://img.shields.io/badge/-C++-00599C.svg?logo=cplusplus&style=flat">
-        <img src="https://img.shields.io/badge/-Rust-555.svg?logo=rust&style=flat">
-        <img src="https://img.shields.io/badge/-PostgreSQL-555.svg?logo=postgresql&style=flat">
+        <img src="https://img.shields.io/badge/-Rust-EA4A00.svg?logo=rust&style=flat">
+        <img src="https://img.shields.io/badge/-PostgreSQL-315E86.svg?logo=postgresql&style=flat">
+        <img src="https://img.shields.io/badge/-MySQL-215788.svg?logo=mysql&style=flat">
         <img src="https://img.shields.io/badge/-Erlang-555.svg?logo=erlang&style=flat">
         <br>
-        <img src="https://img.shields.io/badge/FastAPI-555.svg?logo=fastapi&style=flat">
+        <img src="https://img.shields.io/badge/FastAPI-2F8B80.svg?logo=fastapi&style=flat">
         <img src="https://img.shields.io/badge/Rocket-555.svg?logo=rocket&style=flat">
         <img src="https://img.shields.io/badge/TensorFlow-555.svg?logo=tensorflow&style=flat">
         <img src="https://img.shields.io/badge/Keras-555.svg?logo=keras&style=flat">
@@ -52,9 +53,9 @@ Website: [xenfo.org](https://xenfo.org)
         <img src="https://img.shields.io/badge/AWS-555.svg?logo=aws&style=flat">
         <img src="https://img.shields.io/badge/QEMU-555.svg?logo=qemu&style=flat">
         <img src="https://img.shields.io/badge/React-555.svg?logo=react&style=flat">
-        <img src="https://img.shields.io/badge/ReactNative-555.svg?logo=react&style=flat">
-        <img src="https://img.shields.io/badge/Vite-555.svg?logo=vite&style=flat">
-        <img src="https://img.shields.io/badge/ArgoCD-555.svg?logo=argocd&style=flat">
+        <img src="https://img.shields.io/badge/ReactNative-69D3F9.svg?logo=react&style=flat">
+        <img src="https://img.shields.io/badge/Vite-FAC42E.svg?logo=vite&style=flat">
+        <img src="https://img.shields.io/badge/ArgoCD-F36F38.svg?logo=argocd&style=flat">
         <br>
         <img src="https://img.shields.io/badge/Figma-555.svg?logo=figma&style=flat">
         <img src="https://img.shields.io/badge/Markdown-555.svg?logo=markdown&style=flat">
