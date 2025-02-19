@@ -25,7 +25,7 @@ Website: [xenfo.org](https://xenfo.org)
         <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
         <br>
         <img src="https://img.shields.io/badge/-JavaScript-276DC3.svg?logo=javascript&style=flat">
-        <img src="https://img.shields.io/badge/-Node.js-7DB323.svg?logo=nodedotjs&style=flat">
+        <img src="https://img.shields.io/badge/-Node.js-37762B.svg?logo=nodedotjs&style=flat">
         <img src="https://img.shields.io/badge/-TypeScript-326CBD.svg?logo=typescript&style=flat">
         <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
         <img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=flat">
