@@ -66,7 +66,7 @@ Website: [xenfo.org](https://xenfo.org)
 <br>
 <div style="width:100%;">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yomi4486&count_private=true&show_icons=true&theme=ambient_gradient" style="height: 180px;" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yomi4486&layout=compact&theme=ambient_gradient&langs_count=10" style="height: 180px;" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yomi4486&layout=compact&theme=ambient_gradient&langs_count=8" style="height: 180px;" />
 </div>
 <br>
 
