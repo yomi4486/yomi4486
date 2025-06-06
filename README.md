@@ -29,6 +29,7 @@ Website: [xenfo.org](https://xenfo.org)
         <img src="https://img.shields.io/badge/-TypeScript-326CBD.svg?logo=typescript&style=flat">
         <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
         <img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=flat">
+        <img src="https://img.shields.io/badge/Hono-555.svg?logo=hono&style=flat">
         <br>
         <img src="https://img.shields.io/badge/-Go-4ED2E0.svg?logo=go&style=flat">
         <img src="https://img.shields.io/badge/-Java-F80000.svg?logo=java&style=flat">
@@ -49,6 +50,7 @@ Website: [xenfo.org](https://xenfo.org)
         <img src="https://img.shields.io/badge/Flutter-555.svg?logo=flutter&style=flat">
         <img src="https://img.shields.io/badge/Dart-555.svg?logo=dart&style=flat">
         <img src="https://img.shields.io/badge/Firebase-555.svg?logo=firebase&style=flat">
+        <img src="https://img.shields.io/badge/Supabase-555.svg?logo=supabase&style=flat">
         <img src="https://img.shields.io/badge/GoogleCloudPlatform-555.svg?logo=googlecloud&style=flat">
         <img src="https://img.shields.io/badge/AWS-555.svg?logo=amazon&style=flat">
         <img src="https://img.shields.io/badge/QEMU-555.svg?logo=qemu&style=flat">
