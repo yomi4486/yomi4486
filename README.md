@@ -75,4 +75,5 @@ Portfolio: [yomi4486.xenfo.org](https://yomi4486.xenfo.org)
 </div>
 <br>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yomi4486&theme=dracula" style="width:100%" />
+<img align="center" src="https://github-stats-eta-two.vercel.app/api/stats/yomi4486" style="width:100%" />
 
