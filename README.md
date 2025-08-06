@@ -70,7 +70,7 @@ Portfolio: [yomi4486.xenfo.org](https://yomi4486.xenfo.org)
 </table>
 <br>
 <div style="width:100%;align-items: center;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yomi4486&count_private=true&show_icons=true&theme=ambient_gradient&border=none&r=2" style="flex-grow: 1;" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yomi4486&count_private=true&show_icons=true&theme=ambient_gradient&border=none&r=3" style="flex-grow: 1;" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yomi4486&layout=compact&theme=ambient_gradient&langs_count=8&border=none" style="flex-grow: 1;" />
 </div>
 <br>
