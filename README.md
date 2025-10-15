@@ -43,6 +43,7 @@ Portfolio: [yomi4486.xenfo.org](https://yomi4486.xenfo.org)
         <img src="https://img.shields.io/badge/-PostgreSQL-315E86.svg?logo=postgresql&style=flat">
         <img src="https://img.shields.io/badge/-MySQL-215788.svg?logo=mysql&style=flat">
         <img src="https://img.shields.io/badge/-Erlang-555.svg?logo=erlang&style=flat">
+        <img src="https://img.shields.io/badge/-Cloudflare-555.svg?logo=cloudflare&style=flat">
         <br>
         <img src="https://img.shields.io/badge/FastAPI-2F8B80.svg?logo=fastapi&style=flat">
         <img src="https://img.shields.io/badge/Rocket-555.svg?logo=rocket&style=flat">
