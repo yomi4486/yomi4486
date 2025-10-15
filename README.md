@@ -61,6 +61,7 @@ Portfolio: [yomi4486.xenfo.org](https://yomi4486.xenfo.org)
         <img src="https://img.shields.io/badge/React-555.svg?logo=react&style=flat">
         <img src="https://img.shields.io/badge/ReactNative-69D3F9.svg?logo=react&style=flat">
         <img src="https://img.shields.io/badge/Vite-FAC42E.svg?logo=vite&style=flat">
+        <img src="https://img.shields.io/badge/NextJS-555.svg?logo=nextjs&style=flat">
         <img src="https://img.shields.io/badge/ArgoCD-F36F38.svg?logo=argocd&style=flat">
         <br>
         <img src="https://img.shields.io/badge/Figma-555.svg?logo=figma&style=flat">
