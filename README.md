@@ -17,6 +17,19 @@ Portfolio: [yomi4486.xenfo.org](https://yomi4486.xenfo.org)
 
 <br>Age: 18
 
+### Social
+<p align="left">
+  <a href="https://twitter.com/yomi4486" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat" alt="Twitter">
+  </a>
+  <a href="https://github.com/yomi4486" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat" alt="GitHub">
+  </a>
+  <a href="https://discord.com/users/yomi4486" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&style=flat&logoColor=white" alt="Discord">
+  </a>
+</p>
+
 <table>
   <tr>
     <td>技術🔧</td>
