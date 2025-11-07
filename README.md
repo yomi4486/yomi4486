@@ -5,6 +5,7 @@
 - ギター🎸(Fender JazzMaster)
 - セキュリティとか設計とか、Flutterも好き
 - お前のブリタニアを認めない事
+- ヒトリエ,Sasakure.UK,Suspended 4th,r-906が好き
 
 <br><a href="https://github.com/yomi4486">
     <img src="https://komarev.com/ghpvc/?username=yomi4486" alt="yomi4486" />
