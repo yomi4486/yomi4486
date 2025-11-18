@@ -2,7 +2,7 @@
 ### 趣味
 - ロードバイク🚴　<= TREK Èmonda SL5納車！！
 - 一眼レフ(Nikon)📸
-- ギター🎸(Fender JazzMaster)
+- ギター🎸(Fender Japan Traditional 60s Jazzmaster)
 - セキュリティとか設計とか、Flutterも好き
 - お前のブリタニアを認めない事
 - ヒトリエ,Sasakure.UK,Suspended 4th,r-906が好き
